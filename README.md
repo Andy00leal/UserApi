@@ -1,6 +1,6 @@
 # UserApi
 
-_UserApi es una prueba de API REST desarrollada en ASP.NET Core, que utiliza PostgreSQL como base de datos. La API permite gestionar usuarios, países, departamentos y municipios.
+_UserApi es una prueba de API REST desarrollada en ASP.NET Core, que utiliza PostgreSQL como base de datos. La API permite gestionar usuarios, países, departamentos y municipios._
 
 ## Requisitos
 * .NET 6 SDK o superior
